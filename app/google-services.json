@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "737285847589",
+    "firebase_url": "https://uas-mobile-programming-andi-default-rtdb.firebaseio.com",
+    "project_id": "uas-mobile-programming-andi",
+    "storage_bucket": "uas-mobile-programming-andi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737285847589:android:bdfec3ebda8e89a4369dcc",
+        "android_client_info": {
+          "package_name": "pnj.uts.ti.andiuasmobileprogramming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl-MGy3jFZ_EJm_8m6Uidxz6fNa1bhqos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737285847589:android:29c85ae894d8f2b9369dcc",
+        "android_client_info": {
+          "package_name": "pnj.uts.ti.uasmobileprogrammingandi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl-MGy3jFZ_EJm_8m6Uidxz6fNa1bhqos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
